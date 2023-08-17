@@ -56,7 +56,7 @@
 </details>
 
 <br/><br/>
-[![Discord Presence](https://lanyard.cnrad.dev/api/801010946129788928)](https://discord.com/users/801010946129788928) [![Discord Presence](https://lanyard.cnrad.dev/api/801010946129788928)](https://discord.com/users/801010946129788928)
+[![Discord Presence](https://lanyard.cnrad.dev/api/801010946129788928)](https://discord.com/users/801010946129788928) [![Discord Presence](https://lanyard.cnrad.dev/api/1055540988883509338)](https://discord.com/users/1055540988883509338)
 <hr/>
 
 <h3 align="center">
